@@ -30,3 +30,7 @@
 ## Raw Fusion based Vehicle detector with orientation and 3D box - KeyPoint (version 2.0)
 > Implementation in process!
 > - Camera-Lidar fusion based detector to get the position, orientation and 3D bbox of the detected vehicles (using semantic keypoints)
+
+## Raw Fusion based Pedestrian detector with Semantic Segmentation
+> Live demonstrated at IAA 2023 by Automated Drive Laboratory!
+> - Camera-Lidar fusion based detector to get the position of the detected pedestrians using Semantic Segmentation
