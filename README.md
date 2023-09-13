@@ -34,3 +34,6 @@
 ## Raw Fusion based Pedestrian detector with Semantic Segmentation
 > Live demonstrated at IAA 2023 by Automated Drive Laboratory!
 > - Camera-Lidar fusion based detector to get the position of the detected pedestrians using Semantic Segmentation
+
+## Lidar PointCloud transfering as image from CAR to visualization
+> - Lidar pontfelhő mesh generálás és megjelenítés 
